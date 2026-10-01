@@ -1,16 +1,17 @@
-## Hi there 👋
+## Vanita Applebee
+Junior Software Engineer | Python | Django | React | Java | SQL
 
-<!--
-**vanitatech/vanitatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First Class Software Engineering graduate building full-stack applications
+with Python, Django REST Framework, React and PostgreSQL.
 
-Here are some ideas to get you started:
+Featured Projects
+• Full-Stack E-Commerce Application
+• Maths Kids Educational Mobile Application
+• Python OOP & Software Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+Python • Java • JavaScript • Django • React • PostgreSQL
+REST APIs • Git • Linux • Docker • AWS
+
+Currently developing my software engineering portfolio and looking for
+junior/graduate software engineering opportunities.
