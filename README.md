@@ -1,8 +1,8 @@
 # Vanita Applebee
 
-### Junior Software Engineer | Python | Django | React | Java | SQL
+### Software Engineer | Python | Django | React | Java | SQL
 
-First Class Software Engineering graduate building full-stack applications with **Python, Django REST Framework, React and PostgreSQL**.
+I have a First Class Software Engineering degree and experience building full-stack applications with **Python, Django REST Framework, React and PostgreSQL**, and deploying to **Amazon Web Services (AWS)**.
 
 Interested in backend development, APIs, databases, software engineering and cloud technologies.
 
