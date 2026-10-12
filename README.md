@@ -10,15 +10,15 @@ Interested in backend development, APIs, databases, software engineering and clo
 
 ### [Full-Stack E-Commerce Application](https://github.com/vanitatech/DJango-React-ECommerce-Project)
 
-**React | Django REST Framework | PostgreSQL | JWT | Tailwind CSS**
+**React | Django REST Framework | PostgreSQL | JWT | Tailwind CSS | GitHub Actions | AWS Deployment**
 
-Full-stack e-commerce application featuring user authentication, REST APIs, products, categories, shopping cart, protected checkout and PostgreSQL.
+Full-stack e-commerce application featuring user authentication, REST APIs, products, categories, shopping cart, protected checkout and PostgreSQL. Automated deployment to AWS via Github actions.
 
 ### [Maths Kids – Educational Mobile Application](https://github.com/vanitatech/kids_maths_cordova_app)
 
-**Apache Cordova | JavaScript | HTML | CSS**
+**Apache Cordova | JavaScript | HTML | CSS | GitHub Actions | AWS Deployment**
 
-Educational mathematics mobile application developed as part of my Software Engineering degree.
+Educational mathematics mobile application developed as part of my Software Engineering degree. Automated deployment to AWS via Github actions.
 
 ### [Python Projects](https://github.com/vanitatech)
 
