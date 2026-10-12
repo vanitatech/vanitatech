@@ -2,7 +2,7 @@
 
 ### Software Engineer | Python | Django | React | Java | SQL
 
-I have a First Class Software Engineering degree and experience building full-stack applications with **Python, Django REST Framework, React and PostgreSQL**, and deploying to **Amazon Web Services (AWS)**.
+Junior software engineer with professional experience building full-stack applications with **Python, Django REST Framework, React and PostgreSQL**, and deploying to **Amazon Web Services (AWS)**., backed by a First Class BSc in Software Engineering and a business and operations background.
 
 Interested in backend development, APIs, databases, software engineering and cloud technologies.
 
