@@ -45,7 +45,7 @@ Relevant study: Software Engineering, Object-Oriented Java, Machine Learning & A
 
 ## Currently
 
-Developing my software engineering portfolio and looking for **Junior Software Engineer, Graduate Software Engineer and Junior Python/Backend Developer opportunities**.
+Developing my software engineering portfolio and looking for opportunities to grow and build upon my skills.
 
 **GitHub:** [github.com/vanitatech](https://github.com/vanitatech)
 **Email:** [vanita.tech@gmail.com](mailto:vanita.tech@gmail.com)
